@@ -1,0 +1,4 @@
+Using G-zip, tabs/spaces = 98.5% http://www.txtwizard.net/compression
+
+Spaces: Execution time: 195971 us Compression ratio: 326 % Original size: 7799 bytes Result size: 2390 bytes
+Tabs: Execution time: 173948 us Compression ratio: 292 % Original size: 6884 bytes Result size: 2355 bytes
